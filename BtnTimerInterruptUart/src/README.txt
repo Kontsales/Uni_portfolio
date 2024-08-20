@@ -1,4 +1,4 @@
-Kirjota tänne jotain:
+Kirjota tänne jotain.
 
 Kirjoitin tänne jotain.
 
