@@ -6,11 +6,6 @@ Each folder includes a README-file that explains the broader context of the code
 
 Here is a brief introduction to each of the projects provided:
 
-PI-controller:
-- Utilized HW: Zybo z7-10 (ARM processor)
-- Language: C
-- PI-controller for an inverter utilizing onboard buttons and interrupts or uart communication for configuration and onboard LEDs for output.
-
 FPGA reaction game:
 - Utilized HW: Zybo z7-10 (FPGA)
 - Language: VHDL
@@ -20,6 +15,11 @@ FPGA audio codec:
 - Utilized HW: Zybo-Z7-10 (FPGA)
 - Language: VHDL
 - I2S communication utilizing the onboard SSM2603 audio codec with configuration and operation implemented in VHDL.
+
+PI-controller:
+- Utilized HW: Zybo z7-10 (ARM processor)
+- Language: C
+- PI-controller for an inverter utilizing onboard buttons and interrupts or uart communication for configuration and onboard LEDs for output.
 
 Radio switch for marine vessel
 - Utilized HW: Arduino nano
