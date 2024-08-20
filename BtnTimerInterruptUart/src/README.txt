@@ -1,5 +1,5 @@
-Kirjota tänne jotain
+Kirjota tänne jotain:
 
-Kirjoitin tänne jotain
+Kirjoitin tänne jotain.
 
 Empty application. Add your own sources.
