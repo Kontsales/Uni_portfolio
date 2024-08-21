@@ -15,11 +15,11 @@ FPGA audio codec:
 - I2S communication utilizing the onboard SSM2603 audio codec with configuration and operation implemented in VHDL.
 
 PI-controller:
-- Utilized HW: Zybo z7-10 (ARM processor)
+- Utilized HW: Zybo z7-10 (ARM Cortex A9)
 - Language: C
-- PI-controller for an inverter utilizing onboard buttons and interrupts or uart communication for configuration and onboard LEDs for output.
+- PI-controller for an inverter simulation utilizing onboard buttons and interrupts or uart communication for configuration and onboard LEDs for output.
 
 Radio switch for marine vessel
-- Utilized HW: Arduino nano
+- Utilized HW: Atmega8L
 - Language: Arduino
 - Control logic and user-interface for a device allowing 4 handheld radios to be connected to a single speaker system. Utilizes register level timer control and interrupts.
