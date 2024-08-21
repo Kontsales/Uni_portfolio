@@ -4,15 +4,15 @@ Many of the assignments were completed in a group so the code provided might not
 
 Here is a brief introduction to each of the projects provided:
 
-FPGA reaction game:
-- Utilized HW: Zybo z7-10 (FPGA)
-- Language: VHDL
-- A simple reaction game utilizing onboard buttons and LEDs implemented in VHDL.
-
 FPGA audio codec:
 - Utilized HW: Zybo-Z7-10 (FPGA)
 - Language: VHDL
 - I2S communication utilizing the onboard SSM2603 audio codec with configuration and operation implemented in VHDL.
+
+FPGA reaction game:
+- Utilized HW: Zybo z7-10 (FPGA)
+- Language: VHDL
+- A simple reaction game utilizing onboard buttons and LEDs implemented in VHDL.
 
 PI-controller:
 - Utilized HW: Zybo z7-10 (ARM Cortex A9)
